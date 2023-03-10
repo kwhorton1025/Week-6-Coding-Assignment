@@ -1,4 +1,5 @@
 Week 6: Final Project
+
 Instructions:
   •	In Visual Studio Code, write the code that accomplishes the objectives listed below and ensures that the code compiles and runs as directed. 
   •	Create a new repository on GitHub for this week’s assignments and push this document, with your project code, to the repository.
